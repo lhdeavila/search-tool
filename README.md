@@ -14,6 +14,7 @@ How use search tool:
 
 ```bash
 	# the query is: 'oreilly hack google filetype:pdf'
+	# filetype:pdf <= is an 'google dorks' operator for get only pdf files
 >_ 	python3 search.py
    	Ingrese su busqueda: oreilly hack google filetype:pdf
 ```
